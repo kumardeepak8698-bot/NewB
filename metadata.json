@@ -1,0 +1,6 @@
+{
+  "name": "Device Cloner",
+  "description": "Premium device profiling and application cloning configuration workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="cloned_apks_files" path="." />
+    <files-path name="cloned_apps" path="." />
+    <cache-path name="cache" path="." />
+    <cache-path name="cloned_apks" path="." />
+    <external-path name="external_files" path="." />
+</paths>
